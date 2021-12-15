@@ -1,4 +1,4 @@
-# Михаил Захаров [^1]
+## Михаил Захаров [^1]
 ![mz](/avatar-200.png)
 - [telegram](https://t.me/mzkhrv/)
 - [vk](https://vk.com/bearthebell/)
