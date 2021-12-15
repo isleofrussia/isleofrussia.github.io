@@ -1,6 +1,0 @@
-BLOG_TITLE:=mz's links
-BLOG_REMOTE:=/var/www/bearthebell.github.io/
-BLOG_DATE_FORMAT_INDEX:=%F
-BLOG_DATE_FORMAT:=%F
-BLOG_SRC:=src
-BLOG_URL_ROOT:=https://bearthebell.github.io//
