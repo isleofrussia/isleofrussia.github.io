@@ -5,4 +5,3 @@
 - [VK](https://vk.com/bearthebell/)
 - [Instagram](https://www.instagram.com/bearthebell/)
 - [Facebook](https://www.facebook.com/isleofrussia/)
-- [Goodreads](https://www.goodreads.com/zakharov)
