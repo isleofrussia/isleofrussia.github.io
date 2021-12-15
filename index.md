@@ -1,3 +1,4 @@
+<div style="background-color: rgb(50, 50, 50);">
 ![mz](/avatar-200.png)
 
 ## Ссылки:
@@ -5,3 +6,4 @@
 - [vk](https://vk.com/bearthebell/)
 - [instagram](https://www.instagram.com/bearthebell/)
 - [facebook](https://www.facebook.com/isleofrussia/)
+</div>
