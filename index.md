@@ -19,8 +19,8 @@
 
 
 
-Bitcoin (BTC): ```bc1qpyfqz20nl92k2exkcwxz74kp22xsdw497yvtwl```
+**Bitcoin (BTC):** ```bc1qpyfqz20nl92k2exkcwxz74kp22xsdw497yvtwl```
 
-Monero (XMR): ```42Do5eaCXhmbqCSFjuDKvjfMrTGbeP4q5E3R6exz7KN8DxhoHddeugQ39bA7kct5BWWvFWBVzeP3vR2BdjrzoLEs9Cw8X3U```
+**Monero (XMR):** ```42Do5eaCXhmbqCSFjuDKvjfMrTGbeP4q5E3R6exz7KN8DxhoHddeugQ39bA7kct5BWWvFWBVzeP3vR2BdjrzoLEs9Cw8X3U```
 
-Ethereum (ETH): ```0x6D2C33161962F3Db6B8dA4e8A809Ca1bA9d691Fb```
+**Ethereum (ETH):** ```0x6D2C33161962F3Db6B8dA4e8A809Ca1bA9d691Fb```
