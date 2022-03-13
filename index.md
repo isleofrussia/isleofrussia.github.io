@@ -4,13 +4,13 @@
 - **[Telegram](https://t.me/isleofrussia/)**
 
 
-![Telegram QR](/qr-tg.png)
+![Telegram QR](/tg-qr.png)
 
 
 - [VK](https://vk.com/isleofrussia/)
 
 
-![VK QR](/qr-vk.png)
+![VK QR](/vk-qr.png)
 
 
 - [Goodreads](https://www.goodreads.com/zakharov)
