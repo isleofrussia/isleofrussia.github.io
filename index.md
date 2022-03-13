@@ -1,13 +1,13 @@
 ## Михаил Захаров
 
 ![mz](/avatar-200.png)
-- **[Telegram](https://t.me/mzkhrv/)**
+- **[Telegram](https://t.me/isleofrussia/)**
 
 
 ![Telegram QR](/qr-tg.png)
 
 
-- [VK](https://vk.com/bearthebell/)
+- [VK](https://vk.com/isleofrussia/)
 
 
 ![VK QR](/qr-vk.png)
