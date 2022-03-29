@@ -14,4 +14,3 @@
 
 
 - [Goodreads](https://www.goodreads.com/zakharov)
-- [NowApp.me](https://nowapp.me/): @isleofrussia
